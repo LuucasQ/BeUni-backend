@@ -1,0 +1,13 @@
+node_modules
+dist
+coverage
+.env
+.vscode
+
+package-lock.json
+*.lock
+*.log
+
+tmp
+
+.idea
